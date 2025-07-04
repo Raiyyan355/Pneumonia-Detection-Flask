@@ -113,9 +113,7 @@ The app will be running at:
 - **Architecture:** DenseNet121
 - **Input Size:** 128x128x3
 - **Output:** Binary Classification (Normal vs Pneumonia)
-- **Training Dataset:** (Optional: Add dataset name if available e.g., Kaggle's Chest X-Ray Images (Pneumonia))
-- **Evaluation Metrics:** Accuracy, Sensitivity, Specificity (optional to include here if available)
-
+- **Training Dataset:** (Kaggle's Chest X-Ray Images (Pneumonia))
 ---
 
 ## 📊 Future Improvements
