@@ -25,7 +25,7 @@ Pneumonia is a serious lung infection that can be life-threatening if not diagno
 
 ## 🖥️ Live Demo
 
-*(Optional: Add the link if you deploy this project using Heroku, Render, or any other platform)*
+![Image](https://github.com/user-attachments/assets/58d4a64c-6478-44fa-bc23-529c1e34439e)
 
 ---
 
