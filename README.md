@@ -138,6 +138,6 @@ The app will be running at:
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
 - [Flask](https://flask.palletsprojects.com/)
-- [Chest X-Ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) *(Optional if used)*
+
 
 ---
