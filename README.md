@@ -5,8 +5,7 @@ This project is a **Pneumonia Detection Web Application** that leverages **Deep 
 
 ## 📌 Project Overview
 
-his project allows users to upload chest X-ray images and provides real-time predictions indicating whether the image is **Normal** or shows signs of **Pneumonia** along with the confidence score. The goal is to offer an accessible and automated diagnostic aid that demonstrates the application of AI in healthcare, particularly in the early detection of lung infections.
----
+This project allows users to upload chest X-ray images and provides real-time predictions indicating whether the image is **Normal** or shows signs of **Pneumonia** along with the confidence score. The goal is to offer an accessible and automated diagnostic aid that demonstrates the application of AI in healthcare, particularly in the early detection of lung infections.
 
 ## 🚀 Features
 
