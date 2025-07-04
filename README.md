@@ -1,16 +1,11 @@
 
 # Pneumonia Detection using Deep Learning and Flask
 
-![Pneumonia Detection](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+This project is a **Pneumonia Detection Web Application** that leverages **Deep Learning (DenseNet121)** to classify chest X-ray images as either **Normal** or **Pneumonia**. The solution is deployed as a lightweight web app using **Flask**.
 
 ## 📌 Project Overview
 
-This project is a **Pneumonia Detection Web Application** that leverages **Deep Learning (DenseNet121)** to classify chest X-ray images as either **Normal** or **Pneumonia**. The solution is deployed as a lightweight web app using **Flask**.
-
-Pneumonia is a serious lung infection that can be life-threatening if not diagnosed and treated early. This project aims to provide an easy-to-use diagnostic aid for healthcare professionals and individuals.
-
+his project allows users to upload chest X-ray images and provides real-time predictions indicating whether the image is **Normal** or shows signs of **Pneumonia** along with the confidence score. The goal is to offer an accessible and automated diagnostic aid that demonstrates the application of AI in healthcare, particularly in the early detection of lung infections.
 ---
 
 ## 🚀 Features
@@ -142,11 +137,6 @@ The app will be running at:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙌 Acknowledgements
 
@@ -156,8 +146,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Chest X-Ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) *(Optional if used)*
 
 ---
-
-## 🤝 Connect with Me
-
-- **GitHub:** [Raiyyan355](https://github.com/Raiyyan355)
-- **LinkedIn:** *(Add your LinkedIn link if you wish)*
