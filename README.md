@@ -28,8 +28,6 @@ This project allows users to upload chest X-ray images and provides real-time pr
 - **Frontend:** HTML, CSS (with optional Bootstrap/Tailwind)
 - **Backend:** Python, Flask
 - **Model:** TensorFlow, Keras, DenseNet121
-- **Deployment:** (Optional: mention Heroku, AWS, etc.)
-- **Others:** Joblib, NumPy
 
 ---
 
